@@ -1,6 +1,5 @@
 // main code program to run
 #include "rps_game.h"
-using namespace std;
 
 int main() {
     RockPaperScissors game("Computer");
@@ -11,3 +10,4 @@ int main() {
 
     return 0;
 }
+
